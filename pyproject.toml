@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "circle-the-square"
+version = "0.1.0"
+description = "Bleach microscope images outside the circular field of view"
+authors = [{ name = "Alexei Kouprianov" }]
+requires-python = ">=3.9"
+
+dependencies = [
+    "opencv-python",
+    "numpy",
+]
+
+[project.scripts]
+circle-the-square = "circle_the_square.cli:main"

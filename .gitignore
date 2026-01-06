@@ -1,0 +1,17 @@
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# OS noise
+.DS_Store
+Thumbs.db
