@@ -48,3 +48,5 @@ circle-the-square -f .06 -r 110 *.JPG
 **After stacking with ChimpStack**
 
 ![First image of the stack before bleaching](images/05.IMG_3769-IMG_3782.rt.JPG)
+
+**The animal depicted: *Lachesilla bernardi* Badonnel, 1938 (Moraitika, Corfu, Greece) [iNaturalist observation : 326168200](https://www.inaturalist.org/observations/326168200)**
