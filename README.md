@@ -14,11 +14,15 @@ pipx install git+https://github.com/alexei-kouprianov/circle-the-square
 usage: circle-the-square [-h] [-f FADE] [-r REDUCE_RADIUS] images [images ...]
 
 positional arguments:
+
   images                Input image files (globs expanded by the shell)
 
 options:
+
   -h, --help            show this help message and exit
+
   -f FADE, --fade FADE  Fade width ratio relative to circle radius (default: 0.06; typical: 0.03 sharp, 0.05–0.07 natural)
+
   -r REDUCE_RADIUS, --reduce-radius REDUCE_RADIUS
                         Radius reduction in pixels applied after median radius detection (default: 100)
 
