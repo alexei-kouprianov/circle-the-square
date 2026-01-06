@@ -2,6 +2,8 @@
 
 ``circle-the-square`` is a free, open-source command-line tool designed for the pre-processing of microphotographs intended for stacking with ChimpStack. It auto-detects the circular field of view on a dark background, calculates the median centre and radius of the circle for a stack of images, bleaches the area outside the circle, and creates a fade on the circle border to prevent ChimpStack from being misguided by the sharp black field-of-view border. This is vitally important for microphotographs taken through one of the eyepieces of the binocular head of a dissection microscope (as the object unavoidably shifts sideways in sequential images).
 
+Originally written in ``python`` it requires python >=3.9 and depends on ``opencv-python`` and ``numpy``.
+
 ## Installation (CLI)
 
 ### Linux / macOS
