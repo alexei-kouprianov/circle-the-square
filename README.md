@@ -32,3 +32,19 @@ Example command line call:
 ```bash
 circle-the-square -f .06 -r 110 *.JPG
 ```
+
+## Example
+
+**Original microscope images**
+
+![First image of the stack before bleaching](images/01.IMG_3769.rt.JPG)
+![Last image of the stack before bleaching](images/02.IMG_3782.rt.JPG)
+
+**After processing with circle-the-square**
+
+![First image of the stack after bleaching](images/03.IMG_3769.rt.JPG)
+![Last image of the stack sfter bleaching](images/04.IMG_3782.rt.JPG)
+
+**After stacking with ChimpStack**
+
+![First image of the stack before bleaching](images/05.IMG_3769-IMG_3782.rt.JPG)
