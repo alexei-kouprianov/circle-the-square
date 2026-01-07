@@ -43,10 +43,11 @@ circle-the-square -f .06 -r 110 *.JPG
 **After processing with circle-the-square**
 
 ![First image of the stack after bleaching](images/03.IMG_3769.rt.JPG)
-![Last image of the stack sfter bleaching](images/04.IMG_3782.rt.JPG)
+![Last image of the stack after bleaching](images/04.IMG_3782.rt.JPG)
 
-**After stacking with ChimpStackr**
+**After stacking with ChimpStackr (note differences in stacked image qualty)**
 
-![First image of the stack before bleaching](images/05.IMG_3769-IMG_3782.rt.JPG)
+![Stack of unbleached images](images/06.IMG_3769-IMG_3782.rt.JPG)
+![Stack of bleached images](images/05.IMG_3769-IMG_3782.rt.JPG)
 
 **The animal depicted: *Lachesilla bernardi* Badonnel, 1938 (Moraitika, Corfu, Greece) iNaturalist observation : [326168200](https://www.inaturalist.org/observations/326168200)**
